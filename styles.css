@@ -1,4 +1,7 @@
 body {
-    background-image: url("Images\websiteunderconstruction.jpg");
+    color: white;
+    background-image: url("Images/websiteunderconstruction.jpg");
+    background-color: #000;
+    background-repeat:no-repeat;
+    background-size: 100%;
 }
-
